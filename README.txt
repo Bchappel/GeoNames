@@ -1,6 +1,8 @@
 Running:
 
-Ensure the current working directory is the 'teamproject' folder
+This program must be run on a UNIX system.
+
+Ensure the current working directory is the 'GeoNames' folder
 
 Execute the following commands in order to run the program:
 
